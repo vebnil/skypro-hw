@@ -1,0 +1,15 @@
+@import "index.css";
+@import "container.css";
+@import "header.css";
+@import "special-item.css";
+@import "footer.css";
+@import "page-catalog.css";
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: black;
+    font-family: "JetBrains Mono", serif;
+}
+
