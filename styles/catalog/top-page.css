@@ -1,0 +1,13 @@
+.head-page-name {
+    justify-content: left;
+    align-items: center;
+    display: flex;
+}
+
+.page-top-catalog {
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-image: url("/media/header_bg_catalog.jpg");
+    height: 300px;
+}
