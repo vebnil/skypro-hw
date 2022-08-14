@@ -1,0 +1,24 @@
+@import "index/index.css";
+@import "index/container.css";
+@import "index/header.css";
+@import "index/special-item.css";
+@import "index/footer.css";
+@import "index/page-catalog.css";
+@import "index/page-for.css";
+
+@import "catalog/top-page.css";
+@import "catalog/page-items.css";
+
+@import "basket/bundle-style.css";
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: black;
+    font-family: "JetBrains Mono", serif;
+}
+
+img {
+    border-radius: 10px;
+}

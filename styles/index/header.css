@@ -1,0 +1,78 @@
+.my-header {
+    height: 76px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #fff;
+}
+
+.header-nav {
+    display: none;
+}
+
+.header-nav>img {
+    border-radius: 0;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.page-top {
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-image: url("/media/header_bg.jpeg");
+    height: 500px;
+}
+
+.header-content {
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.nav-link {
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+.index-about {
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 70px;
+    margin-top: 64px;
+    margin-bottom: 16px;
+    color: #FFFFFF;
+}
+
+.index-description {
+    font-size: 24px;
+    line-height: 32px;
+    margin-bottom: 16px;
+    color: #FFFFFF;
+}
+
+.header-input {
+    text-align: center;
+    height: 40px;
+    background: transparent;
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;
+    border-radius: 20px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 18px;
+    color: #C4C4C4;
+}
+
+.index-link {
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    border-bottom: 1px solid transparent;
+    transition-duration: 250ms;
+}
+.index-link:hover {
+    border-bottom: 1px solid black;
+}
