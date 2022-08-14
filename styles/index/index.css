@@ -1,0 +1,12 @@
+
+.social-contact {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.social-contact>a {
+    margin-left: 10px;
+}
+
+.link-hover:hover { border-bottom: 1px solid black; }

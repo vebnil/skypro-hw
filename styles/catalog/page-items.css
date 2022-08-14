@@ -1,0 +1,26 @@
+.page-items {
+    margin-top: 70px;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.breadcrumb {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.item-filter {
+    border-radius: 20px;
+    width: 230px;
+    height: 30px;
+    display: flex;
+    text-align: center;
+}
+
+.get-more-items {
+    width: max-content;
+    border-bottom: 1px solid black;
+}
